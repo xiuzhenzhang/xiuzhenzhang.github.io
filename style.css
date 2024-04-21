@@ -4,7 +4,7 @@ Base styles
 
 body
 {
-	margin: 0;
+	margin: 0px;
 	padding: 0;
 	color: #262626;
 	background-color: #ecedea;
@@ -69,31 +69,15 @@ a:active { color: #ff544f; }
 .container
 {
 	max-width: 70em;
-	margin: 0 auto;
+	margin: 30px;
 }
 
-header
-{
-	color: white;
-	background: #004192;
-	padding: 1em 1.25em;
-}
-
-header #subinfo
-{
-	color: #ecedea;
-}
-
-header #quals
-{
-    color: #ffca4d;
-}
 
 nav
 {
-	background: #262626;
+	background: #C0C0C0;
 	padding: 0;
-    text-align: center;
+    	text-align: center;
 }
 
 .page
@@ -107,19 +91,12 @@ section {
 	padding-top: 1em;
 }
 
-aside
-{
-    float: right;
-	margin-bottom: 1em;
-	padding: 1em 0em 0em 1em;
-    width: 30%;
-}
 
 footer
 {
-	color: #ffca4d;
-	background: #262626;
-	padding: 1em 1.25em;
+	background: #C0C0C0;
+	padding: 0em 0em;
+
 }
 
 /*
